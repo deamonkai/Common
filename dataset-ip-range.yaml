@@ -1,5 +1,5 @@
 ---
-name: ip_ranges
+name: dataset-ip-range
 version: "1.0"
 namespace: com.One2Any.stylebooks
 display-name: "IP Address Range List"
